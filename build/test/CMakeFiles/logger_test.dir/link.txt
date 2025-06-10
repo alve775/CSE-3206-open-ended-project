@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/logger_test.dir/logger_test.cpp.o CMakeFiles/logger_test.dir/__/src/logger.cpp.o -o logger_test   -L/opt/homebrew/opt/googletest/lib  -Wl,-rpath,/opt/homebrew/opt/googletest/lib -lgtest -lgtest_main -lpthread

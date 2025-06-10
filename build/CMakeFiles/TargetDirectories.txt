@@ -1,0 +1,8 @@
+/Users/kamruzzamankhanalve/Desktop/singleton_logger/build/CMakeFiles/main.dir
+/Users/kamruzzamankhanalve/Desktop/singleton_logger/build/CMakeFiles/test.dir
+/Users/kamruzzamankhanalve/Desktop/singleton_logger/build/CMakeFiles/edit_cache.dir
+/Users/kamruzzamankhanalve/Desktop/singleton_logger/build/CMakeFiles/rebuild_cache.dir
+/Users/kamruzzamankhanalve/Desktop/singleton_logger/build/test/CMakeFiles/logger_test.dir
+/Users/kamruzzamankhanalve/Desktop/singleton_logger/build/test/CMakeFiles/test.dir
+/Users/kamruzzamankhanalve/Desktop/singleton_logger/build/test/CMakeFiles/edit_cache.dir
+/Users/kamruzzamankhanalve/Desktop/singleton_logger/build/test/CMakeFiles/rebuild_cache.dir
